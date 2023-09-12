@@ -1,1 +1,8 @@
 THIS IS MY FIRST FILE IN GIT HUB 
+
+cd desktop
+git clone "copy/past"
+
+git add .
+git commit -m "........"
+git push
